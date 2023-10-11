@@ -1,0 +1,13 @@
+@font-face {
+    font-family: sahel;
+    src: url("sahel.woff2");
+}
+body{
+    padding: 0;
+    margin: 0;
+
+    font-family: sahel;
+}
+#title{
+    text-align: center;
+}
