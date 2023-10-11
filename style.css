@@ -12,6 +12,8 @@ body{
     text-align: center;
 }
 table{
+    margin: auto;
+
     border-collapse: collapse;
 }
 table,tr,th,td{
