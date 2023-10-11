@@ -11,3 +11,15 @@ body{
 #title{
     text-align: center;
 }
+table{
+    border-collapse: collapse;
+}
+table,tr,th,td{
+    border: 1px solid #000;
+}
+th,td{
+    padding: 1em;
+}
+th{
+    background-color: #eee;
+}
